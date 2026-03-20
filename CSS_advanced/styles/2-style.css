@@ -1,9 +1,19 @@
-:root {
-  --color-primary: #d73953;
-  --color-black: #090909;
-  --color-white: #ffffff;
-  --color-grey: #a0a0a0;
+body {
+  color: #161616;
+}
 
-  --font-family-base: 'Open Sans', sans-serif;
-  --font-family-title: 'Raleway', sans-serif;
+a {
+  color: #161616;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.card-category {
+  color: #d73953;
+}
+
+.section-tagline {
+  color: #d73953;
 }
