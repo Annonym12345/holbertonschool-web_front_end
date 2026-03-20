@@ -1,0 +1,6 @@
+.card-services:hover,
+.card-work:hover,
+.card-blog:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
